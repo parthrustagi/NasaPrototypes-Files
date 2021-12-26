@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Samples/OpenXR Plugin/1.2.8/Controller/ControllerSample.unity
+    guid: edb91e86bd8b7dc4ca40ad6c3167de73
+  - enabled: 0
+    path: Assets/MainMenu/MenuScene.unity
+    guid: 923eb57be74e62e4583373a97ffc4394
+  - enabled: 0
+    path: Assets/Whack-a-Mole/Scenes/WaM GameScene.unity
+    guid: 053f825df53fb6b46aed47bd5b14f523
+  - enabled: 0
+    path: Assets/Whack-a-Mole/Scenes/WaM-Patrick.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Joneslike/SlidingTilePuzzle/Scenes/SlidingTilePuzzle.unity
+    guid: c78156a8d0505db48bc2d754df2cd940
+  - enabled: 0
+    path: Assets/Joneslike/Scenes/Patrick.unity
+    guid: 1160913492e77cb40a0f05b52d6d3366
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: c48b294fd98a2264e9314f7570e9ea88, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 0c1e5a5c88dedc6499efeefb7fc591a3, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 250cde0b4cd8e9447bf72205f0811015, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: ae244b25b0e3d6d4d8361ef64d79722e, type: 2}
